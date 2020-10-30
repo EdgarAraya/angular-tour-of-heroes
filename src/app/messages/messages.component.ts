@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { MessageService} from '../message.service';
-
+//test
 @Component({
   selector: 'app-messages',
   templateUrl: './messages.component.html',
